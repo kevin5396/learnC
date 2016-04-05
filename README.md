@@ -1,6 +1,6 @@
 #The C Programming Language Answers
 
-Because I haven't learning the C programming language systematically before (only learned some C++) and in this semester we have some courses like OS, Embedded Systems that need programming in C, I decide to use this book to learn some C stuff :)
+Because I haven't learned the C programming language systematically before (only learned some C++) and in this semester we have some courses like OS, Embedded Systems that need programming in C, I decide to use this book to learn some C stuff :)
 
 <div style="text-align: center;">
 <img alt="The C Programming Language" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/The_C_Programming_Language_cover.svg/1200px-The_C_Programming_Language_cover.svg.png" width="288" height="366" align="middle">
