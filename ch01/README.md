@@ -45,3 +45,22 @@ Fahrenheit | Celsius
 
 ###Exercise 1-4
 [ex1_4.c](ex1_4.c)
+
+###Exercise 1-5
+[ex1_5.c](ex1_5.c)
+
+###Exercise 1-6
+If the expression is evaluated true, then 1 is the final value, otherwise 0.
+
+###Exercise 1-7
+-1 (all ones in binary base)
+[ex1_7.c](ex1-7.c)
+
+###Exercise 1-8
+[ex1_8.c](ex1_8.c)
+
+###Exercise 1-9
+[ex1_9.c](ex1_9.c)
+
+###Exercise 1-10
+[ex1_10.c](ex1_10.c)
