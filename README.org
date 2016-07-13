@@ -1,0 +1,18 @@
+#+Title: The C Programming Language Answers
+
+Because I haven't learned the C programming language systematically
+ before (only learned some C++) and in this semester we have some 
+courses like OS, Embedded Systems that need programming in C,
+ I decide to use this book to learn some C stuff :)
+
+This repository contains codes and answers to the book /The C Programming Language/, also known as *K&R C*.
+* DONE [[file:ch1/README.org][A Tutorial Introduction]]
+    CLOSED: [2016-07-12 Tue 12:33]
+* TODO [[file:ch2/README.org][Types, Operators, and Expressions]]
+* TODO [[file:ch3/README.org][Control Flow]]
+* TODO [[file:ch4/README.org][Functions and Program Structure]]
+* TODO [[file:ch5/README.org][Pointers and Arrays]]
+* TODO [[file:ch6/README.org][Structures]]
+* TODO [[file:ch7/README.org][Input and Output]]
+* TODO [[file:ch8/README.org][The UNIX System Interface]]
+
