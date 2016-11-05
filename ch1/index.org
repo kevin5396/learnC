@@ -11,7 +11,6 @@ The compiler uttered a warning but the program can still run correctly.
 hello.c:6:13: warning: unknown escape sequence '\c' [-Wunknown-escape-sequence]
 #+END_SRC
 
-
 ** Exercise 1-3
 #+INCLUDE: "ex1_3.c" src c
 In the terminal, enter
@@ -62,3 +61,44 @@ If the expression is evaluated true, then 1 is the final value, otherwise 0.
 
 ** Exercise 1-10
 #+INCLUDE: "ex1_10.c" src c
+** Exercise 1-11
+   + empty input
+   + no words, only white spaces
+   + 66666 words (16-bit overflow)
+   + one very long word
+   + ...
+** Exercise 1-12
+#+INCLUDE: "ex1_12.c" src c
+** Exercise 1-13
+#+INCLUDE: "ex1-13.c" src c
+** Exercise 1-14
+count the frequency of English letters(case insensitive).
+#+INCLUDE: "ex1-14.c" src c
+** Exercise 1-15
+#+BEGIN_SRC c
+int to_celsius(int fahr)
+{
+    return (5.0 / 9.0) * (fahr - 32);
+}
+int to_fahr(int celsius)
+{
+    return (9.0 / 5.0) * celsius + 32;
+}
+#+END_SRC
+** Exercise 1-16
+** Exercise 1-17
+** Exercise 1-18
+** Exercise 1-19
+#+INCLUDE: "ex1-16.c" src c
+** Exercise 1-20
+#+INCLUDE: "ex1-20.c" src c
+** Exercise 1-21
+#+INCLUDE: "ex1-21.c" src c
+** Exercise 1-22
+#+INCLUDE: "ex1-22.c" src c
+** Exercise 1-23
+#+INCLUDE: "ex1-23.c" src c
+** Exercise 1-24
+#+INCLUDE: "ex1-24.c" src c
+
+
